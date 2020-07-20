@@ -11,7 +11,7 @@
 * Standardization and Portability
 * Ease of use
 * Thread based
-* Fork-join model
+* Fork-join model: **https://ipcc.cs.uoregon.edu/lectures/lecture-9-fork-join.pdf**
 * Directive based approach :A large class of applications can be efficiently supported by higher level constructs (or directives) which **rid the programmer of the mechanics of manipulating low level threads.**
 
 
