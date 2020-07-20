@@ -12,6 +12,7 @@
 * Ease of use
 * Thread based
 * Fork-join model: **https://ipcc.cs.uoregon.edu/lectures/lecture-9-fork-join.pdf**
+    * _side note_ -With K-way fork-join and N levels of fork-join,can have up to KN-way parallelism 
 * Directive based approach :A large class of applications can be efficiently supported by higher level constructs (or directives) which **rid the programmer of the mechanics of manipulating low level threads.**
 
 
