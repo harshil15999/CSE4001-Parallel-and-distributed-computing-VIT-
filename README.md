@@ -12,6 +12,6 @@
 * Ease of use
 * Thread based
 * Fork-join model
-* Directive based approach :A large class of applications can be efficiently supported by higher level constructs (or directives) which rid the programmer of the mechanics of manipulating threads.
+* Directive based approach :A large class of applications can be efficiently supported by higher level constructs (or directives) which **rid the programmer of the mechanics of manipulating low level threads.**
 
 
